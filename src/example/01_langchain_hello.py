@@ -4,7 +4,7 @@ from langchain.prompts import ChatPromptTemplate
 from langgraph.graph import StateGraph
 from typing import TypedDict
 from langchain_openai import ChatOpenAI
-from src.utils import get_config
+from utils import get_config
 
 
 # 定义状态和链
