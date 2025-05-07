@@ -7,5 +7,6 @@ wheels/
 *.egg-info
 
 # Virtual environments
+.env
 .venv
 src/config/llm_config.json
